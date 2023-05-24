@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jasper.hautala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jasper.hautala\\.nuget\\packages"
+    ]
+  }
+}

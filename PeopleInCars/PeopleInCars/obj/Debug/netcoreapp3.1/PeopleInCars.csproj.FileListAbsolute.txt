@@ -1,0 +1,13 @@
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\bin\Debug\netcoreapp3.1\PeopleInCars.exe
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\bin\Debug\netcoreapp3.1\PeopleInCars.deps.json
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\bin\Debug\netcoreapp3.1\PeopleInCars.runtimeconfig.json
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\bin\Debug\netcoreapp3.1\PeopleInCars.runtimeconfig.dev.json
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\bin\Debug\netcoreapp3.1\PeopleInCars.dll
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\bin\Debug\netcoreapp3.1\PeopleInCars.pdb
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.csprojAssemblyReference.cache
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.csproj.CoreCompileInputs.cache
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.AssemblyInfoInputs.cache
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.AssemblyInfo.cs
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.dll
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.pdb
+C:\Users\jasper.hautala\source\repos\PeopleInCars\PeopleInCars\obj\Debug\netcoreapp3.1\PeopleInCars.genruntimeconfig.cache
